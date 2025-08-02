@@ -96,7 +96,6 @@
     { "name": "动作大片", "type": "movie", "query": "动作" },
     { "name": "喜剧电影", "type": "movie", "query": "喜剧" },
     { "name": "爱情故事", "type": "movie", "query": "爱情" },
-    { "name": "情色故事", "type": "movie", "query": "情色" },
     { "name": "科幻世界", "type": "movie", "query": "科幻" },
     { "name": "悬疑推理", "type": "movie", "query": "悬疑" },
     { "name": "恐怖惊悚", "type": "movie", "query": "恐怖" },
